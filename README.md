@@ -118,7 +118,7 @@ Once you have solved each of the course’s problem sets, it’s time to impleme
 
 ## License 📝
 
-[![Licença](https://img.shields.io/github/license/mashape/apistatus?branch=master&label=License&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/CS50X/blob/main/LICENSE)
+[![Licença](https://img.shields.io/github/license/mashape/apistatus?branch=master&label=License&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](./LICENSE)
 
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
